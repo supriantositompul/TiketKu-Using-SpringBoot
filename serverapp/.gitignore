@@ -1,10 +1,5 @@
 HELP.md
 target/
-
-clientapp/
-materials/
-
-
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -36,10 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# On Going
-src/main/java/com/kelempok7/serverapp/service/
-src/main/java/com/kelempok7/serverapp/controller/
-src/main/java/com/kelempok7/serverapp/helper/
-src/main/java/com/kelempok7/serverapp/config/
-src/main/java/com/kelempok7/serverapp/handler/
