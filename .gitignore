@@ -36,10 +36,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# On Going
-src/main/java/com/kelempok7/serverapp/service/
-src/main/java/com/kelempok7/serverapp/controller/
-src/main/java/com/kelempok7/serverapp/helper/
-src/main/java/com/kelempok7/serverapp/config/
-src/main/java/com/kelempok7/serverapp/handler/
