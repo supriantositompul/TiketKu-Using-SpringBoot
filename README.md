@@ -1,13 +1,10 @@
-# TiketMovie
+# TiketKu
+TiketKu is a cinema ticket booking website that allows users to book movie tickets online and make payments through various secure payment methods. This website has been developed with `payment gateway` integration to ensure safe and easy transactions.
 
-TiketKu adalah website penjualan tiket bioskop yang memungkinkan pengguna untuk memesan tiket film secara online dan melakukan pembayaran melalui berbagai metode pembayaran yang aman. Website ini telah dibuat dengan integrasi `payment gateway` untuk memastikan transaksi yang aman dan mudah.
-
-## Teknologi yang Digunakan
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+## Technologies Used
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Thymeleaf
 - **Backend:** Spring Boot
-- **Database:** MySql
+- **Database:** MySQL
 - **Payment Gateway:** Midtrans
 - **Version Control:** Git
 - **Security:** Spring Security using JPA
-
