@@ -62,8 +62,11 @@ Response Body (Failed) :
 ```
 
 Endpoint : POST/auth/forgotPassword
+
 Endpoint : POST/auth/resetPassword
+
 Endpoint : POST/auth/checkEmail
+
 Endpoint : POST/auth/checkUsername
 
 ## Studio
