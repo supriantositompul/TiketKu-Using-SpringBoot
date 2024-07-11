@@ -12,6 +12,7 @@ TiketKu is a cinema ticket booking website that allows users to book movie ticke
 # Documentation
 ## Authentication
 Endpoint : POST/auth/registration
+
 Request Body :
 ``` json
 {
